@@ -34,5 +34,7 @@ Después de 15 años como usuario diario de tecnología en mi trabajo, ahora qui
 ---
 
 ```js
-if (quieresColaborar || ofrecesOportunidad) {
-  console.log("💌 ¡Hablemos! → [LinkedIn](https://www.linkedin.com/in/fernando-rodríguez-gómez-26982561/)");
+if (quieresColaborar || tienesOportunidad) {
+  console.log("🌐 LinkedIn: https://www.linkedin.com/in/fernando-rodr%C3%ADguez-g%C3%B3mez-26982561/");
+}
+```
