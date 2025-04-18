@@ -39,6 +39,7 @@
   > - [ ] ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
+### 📩 Contacto
 ```js
 if (quieresColaborar || tienesOportunidad) {
   console.log("🌐 LinkedIn: https://www.linkedin.com/in/fernando-rodr%C3%ADguez-g%C3%B3mez-26982561/");
