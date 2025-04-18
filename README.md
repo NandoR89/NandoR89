@@ -20,8 +20,8 @@
 | Idioma      | Nivel |
 | ----------- | ----------- |
 | Español      | Nativo ⭐⭐⭐⭐⭐ |
-| Francés   | Natif ⭐⭐⭐⭐⭐ |
-| Inglés | Intermediate ⭐⭐⭐ |
+| Français   | Natif ⭐⭐⭐⭐⭐ |
+| English | Intermediate ⭐⭐⭐ |
 
 ---
 
