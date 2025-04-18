@@ -6,7 +6,9 @@
 
 ## <img src="https://github.com/user-attachments/assets/293793a5-ab25-4827-9130-f342d12f1d75" width="30"> Sobre mí
 
-Después de 15 años como usuario diario de tecnología en mi trabajo, ahora quiero ser quien la construye. Motivado por el reto de reinventarme, busco consolidar mi transición al desarrollo con bases sólidas, determinación y la perspectiva única que da años resolviendo necesidades reales del cliente.
+👔 Después de 15 años como usuario diario de tecnología en mi trabajo, ahora quiero ser quien la construye.
+
+🎯 Motivado por el reto de reinventarme, busco consolidar mi transición al desarrollo con bases sólidas, determinación y la perspectiva única que da años resolviendo necesidades reales del cliente.
 
 ---
 ## 🗣️ Idiomas
