@@ -2,7 +2,7 @@
 
 ## Fernando Rodriguez
 
-![En formación](https://img.shields.io/badge/%F0%9F%92%BB-En%20proceso%20de%20Full%20Stack%20Developer-blue) ![Ubicación](https://img.shields.io/badge/%F0%9F%93%8D-Barcelona-orange)
+![Graduado](https://img.shields.io/badge/%F0%9F%8E%93-Graduado%20en%204Geeks%20Academy-blue) ![Ubicación](https://img.shields.io/badge/%F0%9F%93%8D-Barcelona-orange)
 
 ---
 
@@ -11,8 +11,6 @@
 👔 Después de 15 años como usuario diario de tecnología en mi trabajo, ahora quiero ser quien la construye.
 
 🎯 Motivado por el reto de reinventarme, busco consolidar mi transición al desarrollo con bases sólidas, determinación y la perspectiva única que da años resolviendo necesidades reales del cliente.
-
-📅 Compaginando trabajo y estudios. 
 
 ---
 ### 🗣️ Idiomas
@@ -33,11 +31,12 @@
   > - [x] ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   > - [x] ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   > - [x] ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  > - [x] ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   > - [x] ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  > - [ ] ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- [ ] Back end 🔜
-  > - [ ] ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  > - [ ] ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  > - [x] ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- [x] Back end 🔜
+  > - [x] ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  > - [x] ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ### 📩 Contacto
