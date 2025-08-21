@@ -1,5 +1,5 @@
 # 👋 Hola! Bonjour! Hi!  
-Soy **Fernando Rodríguez**, bilingüe 🇪🇸🇫🇷 con background en gestión de procesos e incidencias, y recién formado en desarrollo web full stack en [4Geeks Academy](https://4geeksacademy.com/).  
+Soy **Fernando Rodríguez**, bilingüe 🇪🇸 🇫🇷 con background en gestión de procesos e incidencias, y recién formado en desarrollo web full stack en [4Geeks Academy](https://4geeksacademy.com/).  
 
 ---
 
@@ -54,6 +54,6 @@ Soy **Fernando Rodríguez**, bilingüe 🇪🇸🇫🇷 con background en gesti�
 
 ## 📫 Contacto  
 📌 [LinkedIn](https://www.linkedin.com/in/fernando-rodr%C3%ADguez-g%C3%B3mez-26982561/)  
-📧 tuemail@email.com  
+📧 nando.rodriguez.gomez89@gmail.com
 
 ---
