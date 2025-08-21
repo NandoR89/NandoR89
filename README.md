@@ -1,5 +1,12 @@
 # 👋 Hola! Bonjour! Hi!  
-Soy **Fernando Rodríguez**, bilingüe 🇪🇸 🇫🇷 con background en gestión de procesos e incidencias, y recién formado en desarrollo web full stack en [4Geeks Academy](https://4geeksacademy.com/).  
+Soy **Fernando Rodríguez**, bilingüe con background en gestión de procesos e incidencias, y recién formado en desarrollo web full stack en [4Geeks Academy](https://4geeksacademy.com/).  
+
+---
+
+## 🌍 Idiomas  
+![Español](https://img.shields.io/badge/Español-Nativo-red?style=for-the-badge)  
+![Français](https://img.shields.io/badge/Français-Natif-blue?style=for-the-badge)  
+![English](https://img.shields.io/badge/English-Técnico-lightgrey?style=for-the-badge) 
 
 ---
 
@@ -11,13 +18,6 @@ Soy **Fernando Rodríguez**, bilingüe 🇪🇸 🇫🇷 con background en gesti
 - **Front End / Full Stack Developer junior** → aplicando mis nuevas competencias técnicas en **JavaScript, React, Python y SQL**.  
 
 💡 Mi valor diferencial: la combinación de **visión de negocio, background técnico e idiomas (ES/FR/EN)**, que me permite adaptarme tanto a proyectos de análisis como de desarrollo.
-
----
-
-## 🌍 Idiomas  
-- Español: Nativo ⭐⭐⭐⭐⭐  
-- Français: Natif ⭐⭐⭐⭐⭐  
-- English: Técnico ⭐⭐⭐  
 
 ---
 
